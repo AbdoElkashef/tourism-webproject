@@ -1,0 +1,63 @@
+
+body{
+    
+background:url("aswan.jpg");  
+    background-size: cover;
+}
+h1{
+	font-family
+}
+#s{
+    text-align: center;
+    
+}
+#as{background-color:chartreuse;
+    color: white;
+    padding: 30px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 600px;
+    margin-top: 50px;
+    border-radius:50px;
+}
+#ca{
+	float:right;
+   background-color:cornflowerblue;
+    color: white;
+    padding: 30px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-right:200px;
+	margin-top:50px;
+	border-radius:50px;
+    }
+#lu{
+   background-color:deeppink;
+   float:left;
+    color: white;
+    padding: 30px 45px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+   margin-left:200px;
+    margin-top:50px;
+	 border-radius:50px;
+}
+#al{
+	
+   background-color:brown;
+    color: white;
+    padding: 30px 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+   margin-left: 275px;
+    margin-top: 200px;
+	border-radius:50px;
+}
+#as:hover,#al:hover,#lu:hover,#ca:hover{
+	background:black;
+	
+}

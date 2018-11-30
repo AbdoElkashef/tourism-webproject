@@ -1,0 +1,19 @@
+body{
+    background:url("Rrr.jpg");  
+    background-size: cover; 
+}
+a:link, a:visited {
+    background-color:white;
+    color: white;
+    padding: 60px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 550px;
+    margin-top: 300px;
+	border-radius:50px;
+}
+
+
+a:hover, a:active {
+    background-color: black;

@@ -1,0 +1,11 @@
+#container {width:1000px;margin:0 auto;
+background-color:white; 	
+overflow:hidden;
+}
+body{
+	background:darkgray;
+}
+h2{
+	color:blue;
+	font-family:andalus;
+}
